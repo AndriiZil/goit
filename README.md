@@ -1,4 +1,0 @@
-- https://www.npmjs.com/package/yargs
-- https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786
-- https://www.digitalocean.com/community/tutorials/node-js-ubuntu-18-04-ru
-- https://medium.com/devschacht/event-loop-timers-and-nexttick-18579cd122e0
